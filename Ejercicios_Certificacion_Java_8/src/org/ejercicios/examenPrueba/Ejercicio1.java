@@ -26,4 +26,7 @@ public class Ejercicio1 {
  * OK
  * Respuecta correcta: 
  * B- An exception is thrown at runtime
+ * 
+ * Cuando hacemos un copy y el fichero de destino ya existe es necesario pasar la opción REPLACE_EXISTING al método copy sino lanza una excepción FileAlreadyExistsException
+ * 
  */
