@@ -13,7 +13,6 @@ public class MyApp implements AutoCloseable {
 		}catch (IOException e){
 			System.out.println("Exception caught");
 		}
-
 	}
 
 	public String read() throws IOException {
